@@ -1,1 +1,1 @@
-# estudosCypress
+# Curso-Cypress
